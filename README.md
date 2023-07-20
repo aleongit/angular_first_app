@@ -3,6 +3,8 @@
 0. [Build your first Angular app](md/0.md)
 1. [Lesson 1: Hello world](md/1.md)
 2. [Lesson 2: Create Home component](md/2.md)
+3. [Lesson 3: Create HousingLocation component](md/3.md)
+4. [Lesson 4: Creating an interface](4.md)
 
 
 
