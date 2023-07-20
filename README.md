@@ -8,6 +8,7 @@
 5. [Lesson 5: Add an input parameter to the component](md/5.md)
 6. [Lesson 6: Add a property binding to a component’s template](md/6.md)
 7. [Lesson 7: Add an interpolation to a component’s template](md/7.md)
+8. [Lesson 8: Use *ngFor to list objects in component](md/8.md)
 
 
 
@@ -68,6 +69,8 @@
 - https://angular.io/guide/inputs-outputs
 - https://angular.io/guide/property-binding
 - https://angular.io/guide/interpolation
+- https://angular.io/guide/built-in-directives
+- https://angular.io/guide/built-in-directives#ngFor
 
 
 ### typescript
