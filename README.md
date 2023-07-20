@@ -4,8 +4,8 @@
 1. [Lesson 1: Hello world](md/1.md)
 2. [Lesson 2: Create Home component](md/2.md)
 3. [Lesson 3: Create HousingLocation component](md/3.md)
-4. [Lesson 4: Creating an interface](4.md)
-5. [Lesson 5: Add an input parameter to the component](5.md)
+4. [Lesson 4: Creating an interface](md/4.md)
+5. [Lesson 5: Add an input parameter to the component](md/5.md)
 
 
 
