@@ -6,6 +6,7 @@
 3. [Lesson 3: Create HousingLocation component](md/3.md)
 4. [Lesson 4: Creating an interface](md/4.md)
 5. [Lesson 5: Add an input parameter to the component](md/5.md)
+6. [Lesson 6: Add a property binding to a component’s template](md/6.md)
 
 
 
@@ -60,4 +61,11 @@
 - https://angular.io
 - https://angular.io/start
 - https://angular.io/guide/setup-local
+- https://angular.io/api/core/NgModule
+- https://angular.io/api/core/Component
+- https://angular.io/api/core/Input
+- https://angular.io/guide/inputs-outputs
+- https://angular.io/guide/property-binding
 
+### typescript
+- https://www.typescriptlang.org/docs/handbook/interfaces.html
