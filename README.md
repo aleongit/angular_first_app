@@ -2,6 +2,8 @@
 
 0. [Build your first Angular app](md/0.md)
 1. [Lesson 1: Hello world](md/1.md)
+2. [Lesson 2: Create Home component](md/2.md)
+
 
 
 ## Requeriments / Prerequisites
