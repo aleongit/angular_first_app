@@ -11,6 +11,7 @@
 8. [Lesson 8: Use *ngFor to list objects in component](md/8.md)
 9. [Lesson 9: Angular services](md/9.md)
 10. [Lesson 10: Add routes to the application](md/10.md)
+11. [Lesson 11: Integrate details page into application](md/11.md)
 
 
 
