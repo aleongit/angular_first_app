@@ -1,36 +1,7 @@
 ## Introduction
 
-0. Build your first Angular app
-1. Lesson 1: Hello world
-
-
-## 0. Build your first Angular app
-- https://angular.io/tutorial/first-app
-- Step 1 - Identify the version of node.js that Angular requires
-- Step 2 - Install the correct version of node.js for Angular
-- Step 3 - Install the latest version of Angular `npm install -g @angular/cli`
-- Step 4 - Install integrated development environment (IDE)
-
-
-## 1. Lesson 1: Hello world
-- https://angular.io/tutorial/first-app/first-app-lesson-01
-- download starting code
-
-### Step 1 - Test the default app
-- `cd angular_first_app`
-- `npm install`
-- `ng serve`
-- http://localhost:4200
-
-
-### Step 2 - Review the files in the project
-- In your project directory, navigate to the `first-app` directory.
-- In the file explorer, find the Angular app files `/src`.
-    - `index.html` is the app's top level HTML template.
-    - `style.css` is the app's top level style sheet.
-    - `main.ts` is where the app start running.
-    - `favicon.ico` is the app's icon, just as you would find in any web site.
-
+0. [Build your first Angular app](md/0.md)
+1. [Lesson 1: Hello world](md/1.md)
 
 
 ## Requeriments / Prerequisites
