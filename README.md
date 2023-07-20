@@ -12,6 +12,7 @@
 9. [Lesson 9: Angular services](md/9.md)
 10. [Lesson 10: Add routes to the application](md/10.md)
 11. [Lesson 11: Integrate details page into application](md/11.md)
+12. [Lesson 12: Adding a form to your Angular app](md/12.md)
 
 
 
