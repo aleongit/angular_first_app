@@ -10,6 +10,7 @@
 7. [Lesson 7: Add an interpolation to a component’s template](md/7.md)
 8. [Lesson 8: Use *ngFor to list objects in component](md/8.md)
 9. [Lesson 9: Angular services](md/9.md)
+10. [Lesson 10: Add routes to the application](md/10.md)
 
 
 
@@ -72,6 +73,9 @@
 - https://angular.io/guide/interpolation
 - https://angular.io/guide/built-in-directives
 - https://angular.io/guide/built-in-directives#ngFor
+- https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application
+- https://angular.io/guide/router-tutorial
+
 
 
 ### typescript
