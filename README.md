@@ -13,7 +13,7 @@
 10. [Lesson 10: Add routes to the application](md/10.md)
 11. [Lesson 11: Integrate details page into application](md/11.md)
 12. [Lesson 12: Adding a form to your Angular app](md/12.md)
-
+13. [Lesson 13: Add the search feature to your app](md.13.md)
 
 
 ## Requeriments / Prerequisites
@@ -77,6 +77,7 @@
 - https://angular.io/guide/built-in-directives#ngFor
 - https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application
 - https://angular.io/guide/router-tutorial
+- https://angular.io/guide/template-reference-variables
 
 
 
