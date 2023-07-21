@@ -14,6 +14,7 @@
 11. [Lesson 11: Integrate details page into application](md/11.md)
 12. [Lesson 12: Adding a form to your Angular app](md/12.md)
 13. [Lesson 13: Add the search feature to your app](md.13.md)
+14. [Lesson 14: Add HTTP communication to your app](md/14.md)
 
 
 ## Requeriments / Prerequisites
@@ -83,3 +84,8 @@
 
 ### typescript
 - https://www.typescriptlang.org/docs/handbook/interfaces.html
+
+
+
+### npm
+- https://www.npmjs.com/package/json-server
