@@ -32,8 +32,10 @@
 - git clone https://github.com/aleongit/angular_first_app.git
 - cd angular_first_app
 - npm install
-- ng serve
+- run `ng serve`
 - http://localhost:4200/
+- run `json-server --watch db.json` to run JSON Server to create mock REST APIs
+- http://localhost:3000/locations 
 
 
 
